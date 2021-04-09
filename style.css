@@ -20,11 +20,11 @@ header {
 .pic {
   margin: 0 auto;
   margin-top:-2.5em;
-  
+
   border-radius:10em;
-  height:4em;
-  width:4em;
-  background-image: url(https://pbs.twimg.com/profile_images/529377948952834048/q9fhJEKd.jpeg);
+  height:13em;
+  width:13em;
+  background-image: url(me.png);
   background-size: 100% auto;
   
   border: 2px solid #e0e0e0;
